@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "791852793163",
+    "project_id": "chat-6893a",
+    "storage_bucket": "chat-6893a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791852793163:android:71f2a82b0d770438e53cce",
+        "android_client_info": {
+          "package_name": "com.perungo.chat1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "791852793163-e3f5n4oqudebepafs0o3bfhoectgbumm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3YKylEmBy7eDhNB1DVV9ORQomMhvcnRA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "791852793163-e3f5n4oqudebepafs0o3bfhoectgbumm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
